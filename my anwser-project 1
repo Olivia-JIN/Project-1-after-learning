@@ -1,0 +1,45 @@
+<html>
+<head>
+       <title>我的project1作业</title>
+</head>
+<body>
+       <h1>网站一级标题</h1>
+       <ul>
+           <li><a href="http://www.baidu.com" title="点击打开导航链接“>导航链接一</a></li>
+           <li><a href="http://www.baidu.com" title="点击打开导航链接“>导航链接一</a></li>
+           <li><a href="http://www.baidu.com" title="点击打开导航链接“>导航链接一</a></li>
+           <li><a href="http://www.baidu.com" title="点击打开导航链接“>导航链接一</a></li>
+       </ul>
+       <br />
+       <h2>文章一级标题</h2>
+       <h2>文章二级标题</h2>
+       <p>
+       文章作者 &nbsp;文章发表时间</p>
+       <p>
+       这是一个很长的段落段落段落这是一个很长的段落段落段落这是一个很长的段落段落段落<br />
+       这是一个很长的段落段落段落这是一个很长的段落段落段落，<br />
+       这是一个很长的段落段落段落这是一个很长的段落段落<a href="http://life.baidu.com" title="打开百度生命">这里有一个链接</a>这里继续有一个很长的段落，<strong>这里有粗体字</strong>,然后继续有很长的段落。</p>
+       <img src="images/suanpan.jpg" alt="suanpan" title="点击可见算盘"><br />
+       <p>
+       这是一个很长的段落段落段落这是一个很长的段落段落段落这是一个很长的段落段落段落<br />
+       这是一个很长的段落段落段落这是一个很长的段落段落段落这是一个很长的段落段落段落<br />
+       这是一个很长的段落段落段落这是一个很长的段落段落段落<a href="http://life.baidu.com" target="_blank" title="打开百度生命">这是一个很长的段落段落段落</a>这是一个很长的段落段落段落这是一个很长的段落段落段落</p>
+       <h2>另一篇文章的一级标题</h2>
+       <h2>文章二级标题</h2>
+       <p>
+       文章作者 &nbsp;文章发表时间</p>
+       <p>
+       这是一个很长的段落段落段落这是一个很长的段落段落段落这是一个很长的段落段落段落<br />
+       这是一个很长的段落段落段落这是一个很长的段落段落段落，<br />
+       这是一个很长的段落段落段落这是一个很长的段落段落<a href="http://life.baidu.com" title="打开百度生命">这里有一个链接</a>这里继续有一个很长的段落，<strong>这里有粗体字</strong>,然后继续有很长的段落。</p>
+       <img src="images/suanpan.jpg" alt="suanpan" title="点击可见算盘"><br />
+       <ul>
+           <li>列表项目一</li>
+           <li>列表项目二</li>
+           <li>列表项目三</li>
+       </ul>
+       <h2>图片标题</h2>
+       <p>好看的图片</p>
+       
+</body>
+</html>
